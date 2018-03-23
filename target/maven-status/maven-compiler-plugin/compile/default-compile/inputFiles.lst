@@ -1,0 +1,12 @@
+/spring-boot/src/main/java/com/example/demo/model/Quiz.java
+/spring-boot/src/main/java/com/example/demo/controller/QuizController.java
+/spring-boot/src/main/java/com/example/demo/model/QuizListWrapper.java
+/spring-boot/src/main/java/com/example/demo/config/ProdPersistenceConfig.java
+/spring-boot/src/main/java/com/example/demo/DemoApplication.java
+/spring-boot/src/main/java/com/example/demo/config/DevPersistenceConfig.java
+/spring-boot/src/main/java/com/example/demo/config/ApplicationConfigurerAdapter.java
+/spring-boot/src/main/java/com/example/demo/config/RedisConfig.java
+/spring-boot/src/main/java/com/example/demo/repository/RedisRepository.java
+/spring-boot/src/main/java/com/example/demo/repository/RedisRepositoryImpl.java
+/spring-boot/src/main/java/com/example/demo/repository/QuizRepository.java
+/spring-boot/src/main/java/com/example/demo/controller/SimpleErrorController.java
